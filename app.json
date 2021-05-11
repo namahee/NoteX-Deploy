@@ -32,7 +32,7 @@
 			"required": false
 		},
     "CUSTOM_PLUGINS_REPO": {
-      "description": "This is best if you wanna add your own plugins"
+      "description": "This is best if you wanna add your own plugins",
       "required": false
 		},
 		"OWNER_ID": {
