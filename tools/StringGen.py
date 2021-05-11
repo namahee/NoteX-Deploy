@@ -33,7 +33,7 @@ async def genStrSession() -> None:
         await app.send_message(
             "me", f"#X #HU_STRING_SESSION\n\n```{await app.export_session_string()}```"
         )
-        print("Done !, session string has been sent to saved messages!")
+        print("Pronto! Sua session string está nas mensagens salvas! (no telegram)")
 
 
 if __name__ == "__main__":
