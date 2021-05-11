@@ -31,7 +31,7 @@ async def genStrSession() -> None:
     ) as app:
         print("\nprocessing...")
         await app.send_message(
-            "me", f"#X #HU_STRING_SESSION\n\n```{await app.export_session_string()}```"
+            "me", f"#NOTE-X #HU_STRING_SESSION\n\n```{await app.export_session_string()}```"
         )
         print("Pronto! Sua session string está nas mensagens salvas! (no telegram)")
 
