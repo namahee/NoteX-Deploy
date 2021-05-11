@@ -30,6 +30,7 @@
 		"UPSTREAM_REPO": {
 			"description": "fill only if you maintain a fork !, else leave empty",
 			"required": false
+		},
     "CUSTOM_PLUGINS_REPO": {
       "description": "This is best if you wanna add your own plugins"
       "required": false
