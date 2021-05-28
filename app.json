@@ -16,7 +16,7 @@
 			"description": "[ Private Telegram Log Channel ID ], Note: Also add your Bot to LOG CHANNEL !"
 		},
 		"PM_LOG_GROUP_ID": {
-		  "description": " For pm messages"
+		  "description": " For pm messages(put the group id)"
 		  "requires": false
 		}
 		"HEROKU_API_KEY": {
