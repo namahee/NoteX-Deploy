@@ -17,7 +17,7 @@
 		},
 		"PM_LOG_GROUP_ID": {
 		  "description": " For pm messages(put the group id)."
-		  "requires": false
+		  "required": false
 		},
 		"HEROKU_API_KEY": {
 			"description": "[Required] Get a Heroku API key from http://dashboard.heroku.com/account",
