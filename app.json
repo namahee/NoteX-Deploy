@@ -9,7 +9,7 @@
 			"value": "0ed423ceea4fbb06c0e627d9db0f4a6b"
 		},
 		"DATABASE_URL": {
-			"description": "Mongodb url from https://cloud.mongodb.com/, guide: https://del.dog/mongodb_guide"
+			"description": "Mongodb url from https://cloud.mongodb.com/, guide: https://del.dog/mongodb_guide",
 			"value": "mongodb+srv://Userbot8778:sasasaSa77@cluster0.eqbcq.mongodb.net/dbtest?retryWrites=true&w=majority"
 		},
 		"HEROKU_APP_NAME": {
