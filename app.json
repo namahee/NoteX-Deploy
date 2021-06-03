@@ -16,7 +16,7 @@
 			"description": "Given app name to the Heroku App"
 		},
 		"LOG_CHANNEL_ID": {
-			"description": "[ Private Telegram Log Channel ID ], Note: Also add your Bot to LOG CHANNEL !"
+			"description": "[ Private Telegram Log Channel ID ], Note: Also add your Bot to LOG CHANNEL !",
 			"value": "-1001165341477"
 		},
 		"PM_LOG_GROUP_ID": {
