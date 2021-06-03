@@ -56,7 +56,7 @@
 			"description": "Upstream repo preffered branch. (Dont Touch This !)",
 			"required": false,
 			"value": "master"
-		}
+		},
 	},
 	"buildpacks": [
 		{
