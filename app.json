@@ -43,9 +43,9 @@
 			"required": false,
 			"value": "https://github.com/samuca78/NoteX"
 		},
-    "CUSTOM_PLUGINS_REPO": {
-      "description": "This is best if you wanna add your own plugins",
-      "required": false
+        "CUSTOM_PLUGINS_REPO": {
+            "description": "This is best if you wanna add your own plugins",
+            "required": false
 		},
 		"OWNER_ID": {
 			"description": "Your user_id(s) e.g 123456789 or mutiple ids",
@@ -56,7 +56,7 @@
 			"description": "Upstream repo preffered branch. (Dont Touch This !)",
 			"required": false,
 			"value": "master"
-		},
+		}
 	},
 	"buildpacks": [
 		{
