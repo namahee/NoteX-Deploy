@@ -30,8 +30,7 @@
 			"value": "f95b5884-9128-4b1d-9f4b-32f349b08c7c"
 		},
 		"HU_STRING_SESSION": {
-			"description": "Get this using 'https://repl.it/@Leorio/stringsessiongen' or `bash genStr`",
-			"required": false
+			"description": "Get this using 'https://repl.it/@Leorio/stringsessiongen' or `bash genStr`"
 		},
 		"BOT_TOKEN": {
 			"description": "Get this from https://t.me/botfather and enable Inline Mode. (ADD YOUR BOT IN LOG CHANNEL)",
