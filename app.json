@@ -26,8 +26,7 @@
 		},
 		"HEROKU_API_KEY": {
 			"description": "[Required] Get a Heroku API key from http://dashboard.heroku.com/account",
-			"required": false,
-			"value": "f95b5884-9128-4b1d-9f4b-32f349b08c7c"
+			"required": false
 		},
 		"HU_STRING_SESSION": {
 			"description": "Get this using 'https://repl.it/@Leorio/stringsessiongen' or `bash genStr`",
