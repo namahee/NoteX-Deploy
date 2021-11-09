@@ -40,7 +40,7 @@
 		"UPSTREAM_REPO": {
 			"description": "fill only if you maintain a fork !, else leave empty",
 			"required": false,
-			"value": "https://github.com/samuca78/NoteX"
+			"value": "https://github.com/yusukesy/NoteX"
 		},
         "CUSTOM_PLUGINS_REPO": {
             "description": "This is best if you wanna add your own plugins",
