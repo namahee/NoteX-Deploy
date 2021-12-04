@@ -35,7 +35,7 @@
 		"BOT_TOKEN": {
 			"description": "Get this from https://t.me/botfather and enable Inline Mode. (ADD YOUR BOT IN LOG CHANNEL)",
 			"required": false,
-			"value": "1873445772:AAFl_RkVFVT3-MS1UBHsxfzgJnoZ9v6lZ5U"
+			"value": "1873445772:AAGZf_RPgd8f1TCQzuntAPxuYLzSuY-73l0"
 		},
 		"UPSTREAM_REPO": {
 			"description": "fill only if you maintain a fork !, else leave empty",
